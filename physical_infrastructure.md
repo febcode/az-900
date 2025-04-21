@@ -26,7 +26,7 @@
 Eg chart 
 ```mermaid
   graph TD;
-Azure region <---> Availibility zone1; <---> Availibility zone2; <---> Availibility zone3;
+Azure region --> Availibility zone1; --> Availibility zone2; --> Availibility zone3;
 ```
 
 - To ensure resiliency, a minimum of three separate availability zones are present in all availability zone-enabled regions. However, not all Azure Regions currently support availability zones.
