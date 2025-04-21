@@ -8,7 +8,7 @@
 - S = Shared 
 
 | Type                                       | Responsbility        | SaaS | Paas| IaaS| On-prem |
-|-------------- -                            |---------------       |------|------|----|----------|
+|-----------------------------------------|-------------------|------|------|----|----------|
 |Responsisbilty always retainred by custmoer | Information and Data | c    | c    |c    | c       |
 |Responsisbilty always retainred by custmoer | Devices mobile and pc  | c    | c    |c    | c     |
 |Responsisbilty always retainred by custmoer | Devices mobile and pc  | c    | c    |c    | c       
